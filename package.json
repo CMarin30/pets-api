@@ -1,0 +1,31 @@
+{
+  "name": "pets-api",
+  "version": "1.0.0",
+  "description": "pets api tercera generacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMarin30/pets-api.git"
+  },
+  "keywords": [
+    "express",
+    "tercera",
+    "generacion"
+  ],
+  "author": "@CMarin30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMarin30/pets-api/issues"
+  },
+  "homepage": "https://github.com/CMarin30/pets-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
